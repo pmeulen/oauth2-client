@@ -1,0 +1,43 @@
+form label
+{
+    display: block;
+    width: 150px;
+    float: left;
+    margin-bottom: 10px;
+    text-align: right;
+    padding-right: 20px;
+}
+form input
+{
+    display: block;
+    width: 400px;
+    float: left;
+    margin-bottom: 10px;
+}
+
+form input[type=submit]
+{
+    margin-left: 170px;
+    width: 200px;
+}
+
+br
+{
+    clear: left;
+}
+
+table
+{
+    border-collapse: collapse;
+}
+
+table td
+{
+    padding: 2px;
+    background-color: lightgoldenrodyellow;
+}
+
+table td:first-child
+{
+    background-color: lavenderblush;
+}
